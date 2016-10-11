@@ -6,23 +6,21 @@ redirect_from: /social/
 
 ## What it is
 
-A listing and analysis of all the content on an existing website (including pages, files, videos, audio or other data) that your users might reasonably encounter.
+A way 
 
 ## Reasons to use it
 
-To identify content that needs to be revised in new versions of a website. Content audits can also help you identify who is responsible for content, how often it should be updated, and what role a particular piece of content plays for users.
+Dashboards are becoming increasingly woven into larger applications, webpages, or programs. Connecting dashboards to a larger end give the user the ability to easily translate insights and information across the entire organization.
 
 ## Time required
 
 **Medium:** 3-8 hours
 
-## How to do it
+## Examples
 
-1. Start with an inventory. Navigate through the site from the home page and note the following about every piece of content. (For repeated items like blog posts, consider capturing just a sample.)
- - Title used in the site’s navigation for that page
- - Title displayed on the page or item itself
- - URL
- - Parent page
+1. Personalization. A user subscribes to a certain metric that 
+
+2. Sharing. A user can take the customized view and share it with colleagues or the public for collaboration and discussion.
 
 2. Identify the main entry points for the user need you’re addressing. This could be external marketing, the homepage, a microsite, or another page. (If you're auditing a full website instead of specific needs, you may be able to skip this step and step 3.)
 
