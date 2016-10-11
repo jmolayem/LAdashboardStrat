@@ -10,24 +10,19 @@ A strategic dashboards highlight progress against overall goals of an organizati
 
 ## Reasons to use it
 
-They are used to provide a high level understanding of metrics.
+They are used to provide a high level understanding of metrics. Strategic dashboards are mainly tailored to management and/or public facing facing audiences.
 
 ## Time Period
 
 **Long:** Quarterly or Yearly
 
-## Major Attributes
+## Examples
 
-1. Bring plenty of Post-It notes and “glue dots” to the meeting.
+1. A water utility puts forth a public displaying dashboard showing annual water use to public.
 
-2. Gather all people on the product team and anyone with a stake in the product’s features.
+2. A CEO shows quarterly progress in widgets built to shareholders.
 
-3. Quickly review the project’s goals and conclusions of any prior user research.
+3. The finance department shows monthly revenue projections and budget constraints at an executive meeting.
 
-4. Ask team members to take five minutes to write important features or user needs on sticky notes. (One feature per sticky note.)
+4. The human resources department presents average turnover rate at annual staff meeting.
 
-5. After five minutes, ask participants to put their stickies on a board. If there are many sticky notes, ask participants to put their features next to similar ones. Remove exact duplicates.
-
-6. Give participants three to five glue dots and instruct them to place their dots on features they feel are most important to meeting project goals and user needs.
-
-7. Identify the features with the largest number of dots (votes).
