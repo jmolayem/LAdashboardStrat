@@ -6,10 +6,10 @@ Dashboards are at-a-glance view of performance indicators specific to a particul
 
 ### Dashboard Categories
 
-- [Strategic](comparative-analysis/)
-- [Analytical](content-audit/)
-- [Operational](design-principles/)
-- [Informational](site-mapping/)
+- [Design](design/)
+- [Data Source](data-source/)
+- [Iteration](iteration/)
+- [User Driven](user-driven/)
 
 ### Models
 

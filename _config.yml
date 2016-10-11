@@ -58,35 +58,23 @@ navigation:
   url: decide/
   internal: true
   children:
-  - text: Comparative analysis
-    url: comparative-analysis/
+  - text: Design
+    url: design/
     internal: true
-  - text: Content audit
-    url: content-audit/
+  - text: Data Source
+    url: data-source/
     internal: true
-  - text: Design principles
-    url: design-principles/
+  - text: Social
+    url: social/
     internal: true
   - text: Site mapping
     url: site-mapping/
     internal: true
-  - text: Task flow analysis
-    url: task-flow-analysis/
+  - text: user-driven
+    url: user-driven/
     internal: true
   - text: User scenarios
     url: user-scenarios/
-    internal: true
-  - text: Affinity diagramming
-    url: affinity-diagramming/
-    internal: true
-  - text: Journey mapping
-    url: journey-mapping/
-    internal: true
-  - text: Mental modeling
-    url: mental-modeling/
-    internal: true
-  - text: Personas
-    url: personas/
     internal: true
   - text: Storyboarding
     url: storyboarding/

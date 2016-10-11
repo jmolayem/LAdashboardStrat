@@ -1,7 +1,7 @@
 ---
-title: Mental modeling
+title: User Driven
 parent: Decide
-redirect_from: /mental-models/
+redirect_from: /user-driven/
 ---
 
 ## What it is

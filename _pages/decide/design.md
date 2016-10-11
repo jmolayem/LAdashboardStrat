@@ -1,7 +1,7 @@
 ---
-title: Comparative analysis
+title: Design
 parent: Decide
-redirect_from: /comparative-analysis/
+redirect_from: /design/
 ---
 
 ## What it is

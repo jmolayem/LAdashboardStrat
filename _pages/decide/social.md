@@ -1,7 +1,7 @@
 ---
-title: Content audit
+title: Social
 parent: Decide
-redirect_from: /content-audit/
+redirect_from: /social/
 ---
 
 ## What it is

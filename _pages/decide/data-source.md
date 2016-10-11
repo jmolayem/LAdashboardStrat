@@ -1,7 +1,7 @@
 ---
-title: Journey mapping
+title: Data Source
 parent: Decide
-redirect_from: /journey-mapping/
+redirect_from: /data-source/
 ---
 
 ## What it is
