@@ -1,7 +1,7 @@
 ---
-title: Design studio
+title: Analytical
 parent: Discover
-redirect_from: /design-studio/
+redirect_from: /analytical/
 ---
 
 ## What it is

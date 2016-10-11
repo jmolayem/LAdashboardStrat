@@ -1,14 +1,16 @@
 ---
-title: Discover
+title: Definition
 ---
 
-Learn as much as you can about the project and people involved.
+Dashboards are at-a-glance view of performance indicators specific to a particular goal or process.
 
-### Project plans
+### Classifications
 
-- [Feature dot voting](feature-dot-voting/)
-- [KJ method](kj-method/)
-- [Metrics definition](metrics-definition/)
+- [Strategic](strategic/)
+- [Analytical](analytical/)
+- [Operational](operational/)
+- [Informational](informational/)
+
 
 ### Team workshops
 

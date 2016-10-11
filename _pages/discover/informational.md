@@ -1,7 +1,7 @@
 ---
-title: Heuristic analysis
+title: Informational
 parent: Discover
-redirect_from: /heuristic-analysis/
+redirect_from: /informational/
 ---
 
 ## What it is

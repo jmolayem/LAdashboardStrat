@@ -1,7 +1,7 @@
 ---
-title: Stakeholder and user interviews
+title: Operational
 parent: Discover
-redirect_from: /stakeholder-and-user-interviews/
+redirect_from: /operational/
 ---
 
 ## What it is

@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: Methods
+name: Dashboard Strategy
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -25,12 +25,12 @@ collections:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
-  url: https://18f.gsa.gov
+  name: Mayor's Data Team
+  url: https://data.lacity.org/
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /assets/img/18F-Logo-2016-Black.svg
-logoalt: 18F logo
+logoalt: Data Team Logo
 
 # Navigation
 # List links that should appear in the site sidebar here
@@ -38,38 +38,23 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Discover
+- text: Definition
   url: discover/
   internal: true
   children:
-  - text: Feature dot voting
-    url: feature-dot-voting/
+  - text: Strategic
+    url: strategic/
     internal: true
-  - text: KJ method
-    url: kj-method/
+  - text: Analytical
+    url: analytical/
     internal: true
-  - text: Metrics definition
-    url: metrics-definition/
+  - text: Operational
+    url: operational/
     internal: true
-  - text: Design studio
-    url: design-studio/
+  - text: Informational
+    url: informational/
     internal: true
-  - text: Bodystorming
-    url: bodystorming/
-    internal: true
-  - text: Cognitive walkthrough
-    url: cognitive-walkthrough/
-    internal: true
-  - text: Contextual inquiry
-    url: contextual-inquiry/
-    internal: true
-  - text: Heuristic analysis
-    url: heuristic-analysis/
-    internal: true
-  - text: Stakeholder and user interviews
-    url: stakeholder-and-user-interviews/
-    internal: true
-- text: Decide
+- text: Key Principles
   url: decide/
   internal: true
   children:
@@ -109,7 +94,7 @@ navigation:
   - text: Style tiles
     url: style-tiles/
     internal: true
-- text: Make
+- text: Template
   url: make/
   internal: true
   children:
@@ -125,7 +110,7 @@ navigation:
   - text: Prototyping
     url: prototyping/
     internal: true
-- text: Validate
+- text: Toolkit
   url: validate/
   internal: true
   children:
@@ -156,7 +141,7 @@ navigation:
     internal: true
 
 repos:
-- name: Methods
+- name: Dashboard Strategy
   description: Main repository
   url: https://github.com/18F/methods
 
@@ -165,8 +150,8 @@ brand_color: '#1188ff'
 google_analytics_ua: UA-48605964-19
 
 back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
+  url: "https://data.lacity.org/"
+  text: Read more about DataLA
 
 styles:
 

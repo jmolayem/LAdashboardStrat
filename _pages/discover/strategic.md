@@ -1,22 +1,22 @@
 ---
-title: Feature dot voting
+title: Strategic
 parent: Discover
-redirect_from: /feature-dot-voting/
+redirect_from: /strategic/
 ---
 
 ## What it is
 
-A simple voting exercise to identify a group’s collective priorities for potential features or user stories.
+A strategic dashboards highlight progress against overall goals of an organization. They provide a view of goals that are not highly granular.
 
 ## Reasons to use it
 
-To build group consensus quickly from the priorities of individual in the group.
+They are used to provide a high level understanding of metrics.
 
-## Time required
+## Time Period
 
-**Small:** 15 minutes
+**Long:** Quarterly or Yearly
 
-## How to do it
+## Major Attributes
 
 1. Bring plenty of Post-It notes and “glue dots” to the meeting.
 
@@ -31,7 +31,3 @@ To build group consensus quickly from the priorities of individual in the group.
 6. Give participants three to five glue dots and instruct them to place their dots on features they feel are most important to meeting project goals and user needs.
 
 7. Identify the features with the largest number of dots (votes).
-
-## Applied in government research
-
-No PRA implications: feature dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting]({{ '/fundamentals/recruiting' | prepend: site.baseurl }}) and [Privacy]({{ '/fundamentals/privacy' | prepend: site.baseurl }}) for more tips on taking input from the public.
