@@ -2,7 +2,7 @@
 title: Definition
 ---
 
-Dashboards are at-a-glance view of performance indicators specific to a particular goal or process.
+Dashboards are at-a-glance view of performance indicators specific to a particular goal or process.tt
 
 ### Classifications
 
